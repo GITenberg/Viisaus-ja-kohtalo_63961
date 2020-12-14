@@ -1,0 +1,37 @@
+_repo: Viisaus-ja-kohtalo_63961
+_version: 0.0.1
+alternative_title: La sagesse et la destinée. Finnish
+contributor:
+  translator:
+    agent_name: Anttila, Aarne
+    birthdate: 1892
+    deathdate: 1952
+    gutenberg_agent_id: '52671'
+    url: http://www.gutenberg.org/2009/agents/52671
+    wikipedia: https://fi.wikipedia.org/wiki/Aarne_Anttila
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63961'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wisdom'
+- !lcc 'PQ'
+- !lcsh 'Fate and fatalism'
+- GITenberg
+title: Viisaus ja kohtalo
+url: http://www.gutenberg.org/ebooks/63961
